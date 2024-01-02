@@ -1,5 +1,11 @@
 # 42CodingSchool
-42 coding school projects
+🧑🏼‍💻 Software development and engineering school 
 
-Piscine - 42 Piscine Completed Projects  
-Main Course - 42 Main Course Completed Projects  
+💻 🖥️ 📺 💾 📡
+
+
+Selection Process:
+🏊🏼‍♂️ Piscine - 42 Piscine Completed Projects  
+
+Common Core:
+⌾⃝ Main Course - 42 Main Course Completed Projects  
