@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "signal.h": "c",
+        "_pthread_t.h": "c",
+        "_types.h": "c",
+        "cdefs.h": "c",
+        "_pthread_types.h": "c",
+        "unistd.h": "c",
+        "stdlib.h": "c"
+    }
+}
