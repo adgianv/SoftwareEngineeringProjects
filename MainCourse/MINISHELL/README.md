@@ -1,20 +1,17 @@
 # <span style="color:red">MINISHELL - DEADSHELL</span>
 
-Compile the program using \`make re\` on your command line.
+Compile the program by running `make re` in your command line.
 
-To run the program, use:
+### Running the Program
 
+To execute the shell, type:
 \`\`\`
 ./minishell
 \`\`\`
 
 ---
 
-**_Use the shell with regular bash commands_**
+**_Usage_**
 
-**_The program manages command concatenation and redirection of I/O._**
-
-
-
-
-
+- Use the shell with regular bash commands.
+- The program handles command concatenation and I/O redirection.
