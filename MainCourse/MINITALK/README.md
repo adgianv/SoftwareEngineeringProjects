@@ -1,24 +1,29 @@
 # MINITALK
 
-Compile the program using \`make re\` on your command line.
+To compile the program, use `make re` in your command line.
 
-To run the program:
-\`\`\`
-./server
-\`\`\`
+### Running the Program
 
-Copy the PID number (4 digits) and open a new terminal window.
+1. Start the server:
+    ```bash
+    ./server
+    ```
 
-Move in the Minitalk repository and run:
-\`\`\`
-./client "PID NUM" "SAMPLE MESSAGE"
-\`\`\`
+2. Note the PID number (4 digits) displayed.
 
-Substituting "PID NUM" with the number that you got running the server and "SAMPLE MESSAGE" with the message you want to send.
+3. Open a new terminal window.
+
+4. Navigate to the Minitalk repository and execute:
+    ```bash
+    ./client "PID NUM" "SAMPLE MESSAGE"
+    ```
+
+   Replace `"PID NUM"` with the server's PID number and `"SAMPLE MESSAGE"` with your desired message.
 
 ---
 
-**_The program can handle emoticons and long messages_**
+**_Note:_** The program supports emoticons and long messages.
+
 
 
 
