@@ -12,7 +12,7 @@ To run the program, use:
 
 **_Use the shell with regular bash commands_**
 
-The program manages command concatenation and redirection of I/O.
+**_The program manages command concatenation and redirection of I/O._**
 
 
 
