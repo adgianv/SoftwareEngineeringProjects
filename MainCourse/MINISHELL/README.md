@@ -5,9 +5,9 @@ Compile the program by running `make re` in your command line.
 ### Running the Program
 
 To execute the shell, type:
-\`\`\`
-./minishell
-\`\`\`
+```bash
+    ./minishell
+    ```
 
 ---
 
