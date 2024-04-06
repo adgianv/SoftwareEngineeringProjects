@@ -9,6 +9,9 @@ To run the program, use:
 \`
 
 ---
+** Use the shell with regular bash commands **
+
+The program manages command concatenation and redirection of I/O.
 
 
 
