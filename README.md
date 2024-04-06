@@ -12,4 +12,4 @@ Selection Process:
 
 Common Core:
 
-⌾⃝ **Main Course** - 42 Main Course Completed Projects  
+⌾ **Main Course** - 42 Main Course Completed Projects  
