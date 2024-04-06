@@ -11,10 +11,10 @@ Copy the PID number (4 digits) and open a new terminal window.
 
 Move in the Minitalk repository and run:
 \`\`\`
-./client <<PID NUM>> <<SAMPLE MESSAGE>>
+./client "PID NUM" "SAMPLE MESSAGE"
 \`\`\`
 
-Substituting <<PID NUM>> with the number that you got running the server and <<SAMPLE MESSAGE>> with the message you want to send.
+Substituting "PID NUM" with the number that you got running the server and "SAMPLE MESSAGE" with the message you want to send.
 
 ---
 
