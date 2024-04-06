@@ -17,7 +17,7 @@ Common Core:
 
 ⌾ **Main Course** - 42 Main Course Completed Projects  
 
-- LibFT: Fucntion Library
+- LibFT: Function Library
 - GetNextLine: Function to read files
 - PrintF: Recreating Printf Stdio function
 - Born2beRoot: Debian Virtual Machine configuration
