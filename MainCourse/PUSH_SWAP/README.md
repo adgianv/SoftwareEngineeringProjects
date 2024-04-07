@@ -30,6 +30,7 @@ bash debug.sh <<LIST OF NUMBERS>>
 ```
 Substitute <<LIST OF NUMBERS>> with a list of positive or negative integers.
 
-- on screen you will see the step by step process of the algorithm
+You will see the step-by-step process of the algorithm on the screen.
+
 ---
 
