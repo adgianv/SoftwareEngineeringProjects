@@ -6,15 +6,15 @@ Compile the program by running `make re` in your command line.
 
 To execute the program, type:
 ```bash
-./push_swap <<LIST OF NUMBERS>>
+./push_swap LIST_OF_NUM
 ```
 
 or alternatively:
 
 ```bash
-./push_swap "<<LIST OF NUMBERS>>"
+./push_swap "LIST_OF_NUM"
 ```
-Substitute <<LIST OF NUMBERS>> with a list of positive or negative integers.
+Substitute LIST_OF_NUM with a list of positive or negative integers.
 
 The program will not print the ordered list, just the moves performed to order it.
 
