@@ -5,10 +5,10 @@ To compile the program, use `make re` in your command line.
 ### Running the Program
 
 Start the game with the pacman classic map:
-    ```bash
-        
-        ./main map/pacman-classic.ber
-    ```
+```bash
+    ./main  map/pacman-classic.ber
+```
+
 You should collect all the collectibles avoiding the enemy to enable the winning portal and win the game.
 
 Press `esc` to exit the game.
