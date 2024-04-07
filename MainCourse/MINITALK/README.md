@@ -18,7 +18,7 @@ To compile the program, use `make re` in your command line.
     ./client "PID NUM" "SAMPLE MESSAGE"
     ```
 
-   Replace `"PID NUM"` with the server's PID number and `"SAMPLE MESSAGE"` with your desired message.
+   Replace `"PID NUM"` with the server's PID number and `"SAMPLE MESSAGE"` with your desired message. No quotes are needed.
 
 ---
 
