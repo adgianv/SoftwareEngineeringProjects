@@ -20,7 +20,10 @@ The program will not print the ordered list, just the moves performed to order i
 
 ---
 To check the algorithm step by step:
-- navigate in the tester repository
+- navigate in the tester repository:
+```bash
+cd tester
+```
 - run the run the command:
 ```bash
 bash debug.sh <<LIST OF NUMBERS>>
