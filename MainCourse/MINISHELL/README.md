@@ -6,7 +6,7 @@ Compile the program by running `make re` in your command line.
 
 To execute the shell, type:
 ```bash
-    ./minishell
+./minishell
 ```
 
 ---
