@@ -24,7 +24,7 @@ To check the algorithm step by step:
 ```bash
 cd tester
 ```
-- run the run the command:
+- run the command:
 ```bash
 bash debug.sh LIST_OF_NUM
 ```
