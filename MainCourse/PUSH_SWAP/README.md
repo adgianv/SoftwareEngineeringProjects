@@ -26,9 +26,9 @@ cd tester
 ```
 - run the run the command:
 ```bash
-bash debug.sh <<LIST OF NUMBERS>>
+bash debug.sh LIST_OF_NUM
 ```
-Substitute <<LIST OF NUMBERS>> with a list of positive or negative integers.
+Substitute LIST_OF_NUM with a list of positive or negative integers.
 
 You will see the step-by-step process of the algorithm on the screen.
 
