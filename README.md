@@ -3,27 +3,27 @@
 
 💻 🖥️ 📺 💾 📡
 
+## Welcome to 42CodingSchool 🧑🏼‍💻
 
+Welcome to the repository of projects completed during the software development and engineering journey at 42CodingSchool. Dive into the world of coding and discover a range of exciting projects!
 
-Selection Process:
+### Selection Process:
 
-🏊🏼‍♂️ **Piscine** - 42 Piscine Completed Projects  
+- 🏊🏼‍♂️ **Piscine** - Completed Projects from the 42 Piscine
 
-Projects:
-String manipulation, Mathematical algorithms, MACROs definition, Memory allocation
+  Projects included: String manipulation, Mathematical algorithms, MACROs definition, Memory allocation
 
+### Projects:
 
-Common Core:
+Explore the completed projects from the main course:
 
-⌾ **Main Course** - 42 Main Course Completed Projects  
+- ⌾ **LibFT**: Function Library
+- ⌾ **GetNextLine**: Function to read files
+- ⌾ **PrintF**: Recreating Printf Stdio function
+- ⌾ **Born2beRoot**: Debian Virtual Machine configuration
+- ⌾ **SoLong**: 2D video game with enemy chase using MLX graphic library
+- ⌾ **Minitalk**: Server and Client communication
+- ⌾ **PushSwap**: Sorting Algorithm with limited moves allowed
+- ⌾ **MiniShell**: Bash shell written in C
 
-- **LibFT**: Function Library
-- **GetNextLine**: Function to read files
-- **PrintF**: Recreating Printf Stdio function
-- **Born2beRoot**: Debian Virtual Machine configuration
-- **SoLong**: 2D videogame with enemy chase using MLX graphic library
-- **Minitalk**: Server and Client communication
-- **PushSwap**: Sorting Algorithm with limited moves allowed
-- **MiniShell**: Bash shell wrote in C
-
-
+Feel free to explore each project's folder for detailed code and insights. Happy coding! 🚀
